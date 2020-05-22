@@ -17,7 +17,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.env.ConfigurableEnvironment;
 import org.springframework.core.env.EnumerablePropertySource;
-import org.springframework.core.env.Environment;
 import org.springframework.data.gemfire.config.annotation.ClientCacheApplication;
 import org.testcontainers.containers.Container;
 import org.testcontainers.containers.GenericContainer;
